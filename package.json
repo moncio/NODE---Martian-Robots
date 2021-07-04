@@ -1,0 +1,33 @@
+{
+  "name": "node---martian-robots",
+  "version": "1.0.0",
+  "description": "Node app for moving a robot in the surface of Mars",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "coverageReporters": ["html"]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moncio/NODE---Martian-Robots.git"
+  },
+  "keywords": [
+    "Node",
+    "Javascript",
+    "Docker",
+    "Jest"
+  ],
+  "author": "Jaime Menéndez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moncio/NODE---Martian-Robots/issues"
+  },
+  "homepage": "https://github.com/moncio/NODE---Martian-Robots#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
