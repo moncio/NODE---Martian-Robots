@@ -19,7 +19,7 @@ To do this exercise, I used TDD methodology in order to produce the solution, fo
 - Write the production code.
 - Refactor.
 
-## 🚀 How to run the Apps
+## 🚀 How to run the App
 
 You need to have either [```Node```](https://nodejs.org/es/) or [```Docker```](https://www.docker.com/) previously installed in your computer.
 
