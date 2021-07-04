@@ -8,7 +8,9 @@
   },
   "jest": {
     "collectCoverage": true,
-    "coverageReporters": ["html"]
+    "coverageReporters": [
+      "html"
+    ]
   },
   "repository": {
     "type": "git",
@@ -26,7 +28,6 @@
     "url": "https://github.com/moncio/NODE---Martian-Robots/issues"
   },
   "homepage": "https://github.com/moncio/NODE---Martian-Robots#readme",
-  "dependencies": {},
   "devDependencies": {
     "jest": "^27.0.6"
   }

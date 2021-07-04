@@ -1,0 +1,7 @@
+version: '3.0'
+services:
+
+  node-martian-robots:
+    image: node-martian-robots
+    build: .
+    container_name: node-martian-robots

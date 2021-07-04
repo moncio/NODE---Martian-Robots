@@ -1,4 +1,4 @@
-const moveRobot = require('../src/martian-Robot');
+const moveRobot = require('../src/martian-robot');
 
 describe('Robot turns left', () => {
 
